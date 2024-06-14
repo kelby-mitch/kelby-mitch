@@ -5,7 +5,7 @@
   Building a SOC + Honeynet in Azure:
 
   Penetration Test Using the Cyber Kill Chain:
-
+javascript:;
   Collection of Various Scripts:
   
 

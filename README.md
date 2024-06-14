@@ -2,7 +2,7 @@
 
 <h2>👨‍💻 Cyber Security Projects:</h2>
 
-  Penetration Test Using the Cyber Kill Chain Proof of Concept:
+  Penetration Test Using the Cyber Kill Chain:
 
 
 <h2> 🤳 Connect with me:</h2>
